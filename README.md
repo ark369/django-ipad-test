@@ -1,0 +1,1 @@
+# django-ipad-test
